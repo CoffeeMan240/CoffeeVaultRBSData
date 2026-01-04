@@ -238,10 +238,11 @@
       "type": "a",
       "name": "api.tubefixer.ovh",
       "value": "167.235.229.36"
-   }
+   },
    {
       "type": "a",
       "name": "api.disney.com",
       "value": "127.0.0.1"
    }
+
 ]
